@@ -30,7 +30,7 @@ Checkbox de termos e privacidade,
 Botão “Criar Conta”,
 
 
-Aplicação do estilo visual utilizando componentes Guna UI:
+- Aplicação do estilo visual utilizando componentes Guna UI:
 Layout moderno, 
 Painéis com gradiente, 
 Campos personalizados, 
@@ -38,15 +38,15 @@ Organização responsiva dos elementos,
 Desenvolvimento do design da tela Alterar/Recuperar Senha.
 
 
-Criação do fluxo visual por etapas:
+- Criação do fluxo visual por etapas:
 Inserção do email,
 Verificação por código,
 Redefinição da senha,
 
 
-Personalização da interface:
+- Personalização da interface:
 Cores suaves em tons rosa/branco,
 Ícones,
 Timer para reenvio de código,
 Estrutura semelhante a aplicações modernas,
-Integração inicial com a lógica do sistema e preparação para conexão com a base de dados SQL Server,
+Integração inicial com a lógica do sistema e preparação para conexão com a base de dados SQL Server.
